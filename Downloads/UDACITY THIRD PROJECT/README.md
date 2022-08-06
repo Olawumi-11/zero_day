@@ -1,0 +1,1 @@
+This is my third project at Udacity Nano-degree program. This project is about visualizing data using python libraries such as Numpy,pandas, matplotlib and Seaborn. Out of the dataset provided for us, i selected the fordgobike dataset which is the information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
